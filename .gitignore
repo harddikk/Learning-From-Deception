@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Large data folders
+MachineLearningCVE/
+pandoc/
+.ipynb_checkpoints/
+
+# System files
+*.log
+.DS_Store
+Thumbs.db
